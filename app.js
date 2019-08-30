@@ -221,7 +221,7 @@ const serviceState = function(page) {
   </div>
   <div class="col s12 m6">
   <h3>Request a Quote</h3>
-  <form class="col s12">
+  <form action="mailto:amandaj_henry@yahoo.com " class="col s12">
   <div class="row">
     <div class="input-field col s6">
       <input id="first_name" type="text" class="validate">
